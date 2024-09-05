@@ -14,7 +14,7 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![R Badge](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+
 
 
 <img src="https://camo.githubusercontent.com/dce27cd0706db394b87914183129a6286be9de7c06d582e6752a109315b99418/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" alt="Code" align="center" width="50%"></img>
