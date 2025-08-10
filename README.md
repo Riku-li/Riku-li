@@ -3,7 +3,7 @@
 <h2>Contact</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/Ricardo_Jiménez-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ricardo-jim%C3%A9nez-2591b3279/)
-![Proton Mail Badge](https://img.shields.io/badge/ricardo.jimenez003@proton.me%20-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)
+[![Proton Mail Badge](https://img.shields.io/badge/ricardo.jimenez003@proton.me%20-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:ricardo.jimenez003@proton.me)
 
 <h2>Languages I use</h2>
 
